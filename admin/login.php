@@ -1,6 +1,6 @@
 <?php
  echo 123;
- if(){
-
+ if(2>1){
+	print("this is true");
  }
 ?>
